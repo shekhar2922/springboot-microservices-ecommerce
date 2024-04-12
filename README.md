@@ -1,5 +1,5 @@
 # About the Project
-* This project is based Spring Boot Microservices with the usage of Docker and Kubernetes.
+* This project is based Spring Boot Microservices with the usage of Docker.
 * User can register and login through auth service by user role (ADMIN or USER) through api gateway.
 * User can send any request to relevant service through api gateway with its bearer token.
 
